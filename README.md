@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Junseob Lee</h1>
+<h1 align="center">Hi 👋 I'm Junseob Lee (June-sup)</h1>https://www.howtopronounce.com/junseob#google_vignette
 
 # 💫 About Me:
 I am a Fourth-year computer Science student at Georgia Institute of Technology, passionate about exploring the realms of coding, and building robust applications that can impact the world.
