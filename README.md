@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Junseob Lee</h1>
 
 # 💫 About Me:
-I am a third-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Fourth-year computer Science student at Georgia Institute of Technology, passionate about exploring the realms of coding, and building robust applications that can impact the world.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+- 🤖 Exploring Machine Learning 
+- 💻 Building Animal Face App using ML 
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
+Check out my [coding portfolio!](link)
 
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
+- Love Traveling and meeting new people all around the world 📍 🌍 ✈️
+- countries i've traveled - 🇺🇸 🇰🇷 🇯🇵 🇲🇽 🇨🇦 🇻🇳 🇲🇾 🇹🇭 🇨🇺
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://www.linkedin.com/in/junseob-lee/)
 
 # 💻 Tech Stack:
 Languages: 
