@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Junseob Lee (June-sup)</h1>https://www.howtopronounce.com/junseob#google_vignette
+<h1 align="center">Hi 👋 I'm Junseob Lee </h1>
+
+How to pronounce my [name!](https://www.howtopronounce.com/junseob#google_vignette)
 
 # 💫 About Me:
 I am a Fourth-year computer Science student at Georgia Institute of Technology, passionate about exploring the realms of coding, and building robust applications that can impact the world.
@@ -16,7 +18,7 @@ Check out my [coding portfolio!](link)
 - countries i've traveled - 🇺🇸 🇰🇷 🇯🇵 🇲🇽 🇨🇦 🇻🇳 🇲🇾 🇹🇭 🇨🇺
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/junseob-lee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junseob-lee/)
 
 # 💻 Tech Stack:
 Languages: 
